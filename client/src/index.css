@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+/* loader */
+
+
+.spinner{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+
+
+
+.form-btn{
+  width: 200px;
+  margin-top: 2rem;
+}
